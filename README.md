@@ -59,9 +59,9 @@ touch .env
 Add the following content to your `.env` file:
 
 ```env
-PRIVATE_KEYS=0xac0974bec39a17e36ba4a6b4d238ff944bacb478cbed5efcae784d7bf4f2ff80
-GOERLI_API_KEY=https://goerli.infura.io/v3/your_infura_project_id
-MUMBAI_API_KEY=https://polygon-mumbai.g.alchemy.com/v2/your_alchemy_key
+PRIVATE_KEYS=" "
+GOERLI_API_KEY=" "
+MUMBAI_API_KEY=" "
 ```
 
 ### 4. Compile Smart Contracts
