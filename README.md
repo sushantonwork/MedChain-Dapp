@@ -185,8 +185,8 @@ Follow the Quick Start guide above for local development.
 2. **Update your `.env`** with real API keys:
    ```env
    PRIVATE_KEYS=your_real_private_key_here
-   GOERLI_API_KEY=https://goerli.infura.io/v3/your_infura_project_id
-   MUMBAI_API_KEY=https://polygon-mumbai.g.alchemy.com/v2/your_alchemy_key
+   GOERLI_API_KEY=your_real_api_key_here
+   MUMBAI_API_KEY=your_real_api_key_here
    ```
 
 3. **Deploy to testnet**:
